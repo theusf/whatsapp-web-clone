@@ -6,8 +6,9 @@ function SidebarChat({ addNewChat }) {
 
     const createChat = () => {
         const roomName = prompt("Insira um nome para o novo chat 😀")
-        if (roomName) {
 
+        if (roomName) {
+            //fazer uma coisa sapeca
         }
     }
 
